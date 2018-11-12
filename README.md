@@ -12,6 +12,7 @@ Time spent: **3** hours spent in total
     - Tested in version: 4.2.2
     - Fixed in version: 4.2.3
   - [ ] GIF Walkthrough: 
+  	![](exploit1/exploit1.gif)
   - [ ] Steps to recreate: 
 	- Have version 4.2 installed
 	- Create a wordpress account and login
