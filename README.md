@@ -27,6 +27,7 @@ Time spent: **3** hours spent in total
     - Tested in version: 4.2
     - Fixed in version: 4.2.1
   - [ ] GIF Walkthrough: 
+  	![](exploit2/exploit2.gif)
   - [ ] Steps to recreate: 
 	- Make sure you are signed out.
 	- Create an html script containing 64kiB of data along with your malicious payload.
@@ -38,30 +39,13 @@ Time spent: **3** hours spent in total
     - Vulnerability types: Clickjack/CSRF
     - Tested in version: 4.2
     - Fixed in version: N/A
-  - [ ] GIF Walkthrough: 
+  - [ ] GIF Walkthrough:
+  	![](exploit3/exploit3.gif)
   - [ ] Steps to recreate:
 	- Simply craft basic html with an iframe in the body of the code with a link to your target site.
 	- Once posted, the iframe can either bring you to a site an conduct a CSRF attack or you can have it reveal the cookie of the current user.
   - [ ] Affected source code:
     - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
-1. (Optional) Vulnerability Name or ID
-  - [ ] Summary: 
-    - Vulnerability types:
-    - Tested in version:
-    - Fixed in version: 
-  - [ ] GIF Walkthrough: 
-  - [ ] Steps to recreate: 
-  - [ ] Affected source code:
-    - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
-1. (Optional) Vulnerability Name or ID
-  - [ ] Summary: 
-    - Vulnerability types:
-    - Tested in version:
-    - Fixed in version: 
-  - [ ] GIF Walkthrough: 
-  - [ ] Steps to recreate: 
-  - [ ] Affected source code:
-    - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php) 
 
 ## Assets
 
